@@ -1,0 +1,1 @@
+This is entirely based on [huggingface picotron repo](https://github.com/huggingface/picotron_tutorial). I'm recreating it with minor changes for my own learning.
